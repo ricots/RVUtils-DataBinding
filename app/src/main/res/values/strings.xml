@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <string name="app_name">RALMDemo</string>
+    <string name="label_action_label_recycler_view">RefreshRecyclerView</string>
+    <string name="label_action_label_sticky_header_view">StickyHeader</string>
+
+    <!-- guide -->
+
+
+</resources>
